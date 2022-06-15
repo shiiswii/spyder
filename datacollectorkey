@@ -1,0 +1,16 @@
+data1 = [int.length == 12]
+data2 = [int.length == 3]
+dataprofile = [data1, data2]
+list1 = []
+matches = []
+scrolldown = mousewheel.down
+scrollup = mousewheel.up
+navnextpage = ??
+open1 = open.BaseBrowser.chrome
+x = open1.run
+xx = keystroke.ctrl f
+searchbar = keystroke.??find searchbar idk
+site1 = reddit.com
+site2 = google.com
+sitetyper1 = searchbar.keystroke.site1
+sitetyper2 = searchbar.keystroke.site2
